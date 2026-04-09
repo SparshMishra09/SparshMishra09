@@ -49,19 +49,6 @@
 
 ---
 
-## 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SparshMishra09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img src="https://streak-stats.demolab.com?user=SparshMishra09&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshMishra09&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🧠 Core Strengths  
 
 | Area | Highlights |
