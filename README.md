@@ -1,29 +1,29 @@
 <!-- 🔥 Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Sparsh%20Mishra&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Sparsh%20Mishra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sparsh Mishra</h1>
 <h3 align="center">🚀 Android Developer | UI/UX Designer | Data Analyst in Progress</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;UI%2FUX+Mentor;Smart+India+Hackathon+Finalist;AI+Builder;Data+Analytics+Learner&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;UI%2FUX+Mentor;Hackathon+Finalist;AI+Builder;Data+Analytics+Learner&center=true&width=550&height=45">
 </p>
 
 ---
 
 ## 🧑‍💼 About Me  
 
-<img align="right" height="180" src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Developer.gif"/>
+<img align="right" height="170" src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Developer.gif"/>
 
-- 🎓 B.Tech CSE @ Amity University, Mumbai (**CGPA: 9.1**)  
-- 🏆 **Smart India Hackathon Finalist**  
+- 🎓 B.Tech CSE @ Amity University, Mumbai (CGPA: 9.1)  
+- 🏆 Smart India Hackathon Finalist  
 - 🥇 1st Place – UI/UX Competition  
 - 🎤 UI/UX Mentor @ GDG Events  
-- 💼 Software Dev Intern @ ColaMeta  
-- 📱 Building Android apps using **Java, Kotlin & Firebase**  
-- 📊 Skilled in **Power BI, Excel & Data Visualization**  
-- 🎨 Passionate about **UI/UX & Design Thinking**  
+- 💼 Software Development Intern @ ColaMeta  
+- 📱 Building Android apps using Java, Kotlin & Firebase  
+- 📊 Skilled in Data Analysis (Power BI, Excel)  
+- 🎨 Passionate about UI/UX & Design Thinking  
 
 ---
 
@@ -31,11 +31,11 @@
 
 | Project | Description | Tech |
 |--------|------------|------|
-| **ResuMate** | AI resume analyzer (ATS based) | Kotlin, Firebase, AI |
-| **LearnEd** | Real-time French learning platform | Firebase |
-| **SeniorSetu** | Govt schemes app for elderly | Java, Firebase |
-| **Mentor Platform** | UI/UX design system | Figma |
-| **Data Dashboards** | Power BI analytics projects | Power BI |
+| ResuMate | AI-powered resume analyzer | Kotlin, Firebase |
+| LearnEd | Real-time French learning platform | Firebase |
+| SeniorSetu | Govt schemes app | Java, Firebase |
+| Mentor Platform | UI/UX system design | Figma |
+| Data Dashboards | Analytics projects | Power BI |
 
 ---
 
@@ -49,11 +49,11 @@
 
 ---
 
-## 📊 GitHub Stats (Fixed ✅)
+## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SparshMishra09&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SparshMishra09&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SparshMishra09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://streak-stats.demolab.com?user=SparshMishra09&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -62,23 +62,23 @@
 
 ---
 
-## 📈 Skills Overview  
+## 🧠 Core Strengths  
 
-| Domain | Tools | Level |
-|------|------|------|
-| Android Dev | Java, Kotlin, Firebase | 🔥🔥🔥🔥☆ |
-| UI/UX Design | Figma, Wireframing | 🔥🔥🔥🔥☆ |
-| Data Analysis | Power BI, Excel | 🔥🔥🔥☆☆ |
-| Web Dev | HTML, CSS, JS, PHP | 🔥🔥🔥☆☆ |
+| Area | Highlights |
+|------|----------|
+| Android Development | Building scalable apps with Firebase integration |
+| UI/UX Design | Wireframing, prototyping, user-centered design |
+| Data Analysis | Dashboard creation, data visualization |
+| Problem Solving | Hackathons, real-world project experience |
 
 ---
 
 ## 🏆 Achievements  
 
-- 🏁 Smart India Hackathon **Grand Finale Participant**  
-- 🥇 1st Place – UI/UX Competition (Amity Mumbai)  
-- 🎤 Conducted UI/UX workshops (GDG)  
-- 💡 Participated in multiple hackathons  
+- Smart India Hackathon Grand Finalist  
+- 1st Place – UI/UX Design Competition  
+- Conducted UI/UX workshops (GDG)  
+- Active in national-level hackathons  
 
 ---
 
@@ -110,22 +110,16 @@
 
 ---
 
-## 🐍 Contribution Snake (FIXED ✅)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SparshMishra09/SparshMishra09/main/dist/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## ⚡ Fun Zone  
 
-<img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/working.gif" width="300"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/working.gif" width="250"/>
+</p>
 
 - 😄 Ambivert  
 - 🍜 Food lover  
 - 🎯 Love building impactful tech  
-- 🧠 Curious & always learning  
+- 🧠 Always learning  
 
 ---
 
